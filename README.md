@@ -1,3 +1,13 @@
+Feito durante um curso de React
+
+Registrar notas
+
+![registra](https://github.com/DeangellesES/React_App-para_criar_notas/blob/main/registrar.png)
+
+Notas criadas
+
+![registrado](https://github.com/DeangellesES/React_App-para_criar_notas/blob/main/itens-registrados.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
