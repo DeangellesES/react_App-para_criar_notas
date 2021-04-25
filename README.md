@@ -1,4 +1,4 @@
-Registrar notas, utilizando React.js.
+App feita para registrar notas, utilizando a biblioteca React.js.
 
 ![registra](https://github.com/DeangellesES/React_App-para_criar_notas/blob/main/registrar.png)
 
