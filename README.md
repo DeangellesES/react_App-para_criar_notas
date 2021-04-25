@@ -1,6 +1,4 @@
-Feito durante um curso de React
-
-Registrar notas
+Registrar notas, utilizando React.js.
 
 ![registra](https://github.com/DeangellesES/React_App-para_criar_notas/blob/main/registrar.png)
 
